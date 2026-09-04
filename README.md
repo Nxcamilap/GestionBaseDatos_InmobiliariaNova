@@ -1,6 +1,8 @@
 # Sistema de Gestión Inmobiliaria — Base de Datos MySQL
 
 Sistema de gestión inmobiliaria en MySQL: propiedades, clientes, contratos, pagos, funciones personalizadas, triggers de auditoría, roles y eventos programados.
+
+
 Autoría: Nicolle Camila Piñeros Castañeda | Desarrolladora Full Stack Junior
 ---
 
