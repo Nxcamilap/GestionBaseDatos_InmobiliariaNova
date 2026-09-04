@@ -1,7 +1,7 @@
 # Sistema de Gestión Inmobiliaria — Base de Datos MySQL
 
 Sistema de gestión inmobiliaria en MySQL: propiedades, clientes, contratos, pagos, funciones personalizadas, triggers de auditoría, roles y eventos programados.
-
+Autoría: Nicolle Camila Piñeros Castañeda | Desarrolladora Full Stack Junior
 ---
 
 ## ▪️Diagrama Entidad-Relación
@@ -55,7 +55,7 @@ En `HISTORIAL_ESTADO_PROPIEDAD`, los campos `estado_anterior` y `estado_nuevo` s
 
 ---
 
-## ⚙️ Funciones personalizadas
+## Funciones personalizadas
 
 | Función | Qué hace |
 |---|---|
@@ -82,7 +82,7 @@ El empleado responsable del cambio de estado se toma de la variable de sesión `
 
 ---
 
-## 🔐 Seguridad y roles
+## Seguridad y roles
 
 Se definieron 3 roles con privilegios diferenciados usando `CREATE ROLE` (MySQL 8+):
 
